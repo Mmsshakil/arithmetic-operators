@@ -8,9 +8,13 @@ int main()
     {
         printf("I will eat burger");
     }
-    else
+    else if (tk >= 50)
     {
-        printf("I will not eat burger");
+        printf("I will eat fucka");
+    }
+    else if (tk < 50)
+    {
+        printf("I will not eat anything");
     }
 
     return 0;
