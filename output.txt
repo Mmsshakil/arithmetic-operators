@@ -1,5 +1,1 @@
-Sum = 7
-Sub = 3
-Mul = 10
-Div = 2.500000
-Mod = 1
+I will eat burger
